@@ -11,7 +11,7 @@
 - [x] connect to Jenzabar
   - [x] mssql package: emgee:mssql
   - [x] environment settings and security best practices?
-    [x] http://joshowens.me/environment-settings-and-security-with-meteor-js/
+  - [x] Check: http://joshowens.me/environment-settings-and-security-with-meteor-js/
   - [x] connect to db server
   - [ ] get data using default mssql package
     - where to put server methods?
