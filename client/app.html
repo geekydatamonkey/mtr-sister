@@ -1,0 +1,8 @@
+<template name="app">
+  <input id="courseID" class="dynamic-input" placeholder="CourseID" value="IDM  6610 10"/>
+  <input id="term" class="dynamic-input" placeholder="Semester" value="FA"/>
+  <input id="year" class="dynamic-input" placeholder="Year" value="2015" >
+
+  <button class="js-getEnrollments">Get Enrollments</button>
+  {{> enrollmentList }}
+</template>
