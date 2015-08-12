@@ -1,13 +1,13 @@
 # TODO
 
-# Doing
+## Doing
  - [ ] display data for a course
 
-# ToDo
+## ToDo
 
  - [ ] query string builder for Meteor?
 
-# Done
+## Done
 - [x] connect to Jenzabar
   - [x] mssql package: emgee:mssql
   - [x] environment settings and security best practices?
